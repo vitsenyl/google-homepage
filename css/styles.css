@@ -51,5 +51,6 @@
     border-radius: 3px;
     font-size: 14px;
     font-weight: 500;
-    color: darkslategray;    
+    color: darkslategray;
+    margin: 0 4px;    
 }
