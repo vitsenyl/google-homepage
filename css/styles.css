@@ -18,9 +18,11 @@
 }
 
 .header-list a{
+    margin: 0 5px;
     color: darkslategray;
     text-decoration: none;
-    font-size: 15;
+    font-family: Arial;
+    font-size: smaller;
 }
 
 .search-container {
@@ -33,7 +35,7 @@
 .search-input {
     margin-top: 15px;
     height: 40px;
-    width: 450px;
+    width: 500px;
     border-radius: 30px;
     border-width: thin;
     font-size: 17px;
