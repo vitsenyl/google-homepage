@@ -54,3 +54,31 @@
     color: darkslategray;
     margin: 0 4px;    
 }
+
+.footer-container {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    background-color: rgba(0,0,0,.05);
+    width: 100vw;
+    height: 40px;
+}
+
+.footer-list {
+    list-style-type: none;
+    margin: 0px;
+    padding: 10px;
+}
+
+.footer-list li{
+    float: left;
+    margin: 2px 18px;
+}
+
+.footer-list a{
+    color: darkslategray;
+    text-decoration: none;
+    color: rgba(10,10,10,.7);
+    font-family: Arial;
+    font-size: small;
+}
