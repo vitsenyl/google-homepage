@@ -1,24 +1,26 @@
+.homepage{
+}
+
 .search-container {
-    margin: auto;
+    margin-left: 20%;
     padding-top: 100px;
-    height: auto;
-    width: auto;
+    width 80%;
 }
 
 .google-logo-container {
     padding-left: 300px;
-    margin: auto;
-    height: auto;
-    width: 50%;
 }
 
 .google-logo {
-    width: auto;
-    height: auto;
 }
 
-.search-input-container {
+.search-input-container{
+    padding-left: 200px;
+}
+
+.search-input {
     height: 40px;
-    width: 500px;
-    border-radius: 10%;
+    width: 472px;
+    border-radius: 30px;
+    border-width: thin;
 }
