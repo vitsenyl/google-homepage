@@ -39,7 +39,21 @@
     border-radius: 30px;
     border-width: thin;
     font-size: 17px;
-    padding-left: 20px;
+    padding-left: 30px;
+}
+
+.search-icon {
+    height: 18px;
+    position: absolute;
+    margin-left: -520px;
+    margin-top: 28px;
+}
+
+.mic-icon {
+    height: 21px;   
+    position: absolute; 
+    margin-left: -35px;
+    margin-top: 26px;
 }
 
 .button-container{
